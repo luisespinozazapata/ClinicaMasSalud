@@ -21,22 +21,16 @@ Proyecto académico desarrollado en **Java** (CIBERTEC – 2025) para automatiza
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/antwny/clinicaMasSalud
+git clone https://github.com/luisespinozazapata/clinicaMasSalud
 cd clinicaMasSalud
 # Importar a Eclipse IDE
 Moverse a src/gui/
 # Inicia la aplicación:
 Ejecutar LoginAcceso.java
 # Ingresar credenciales:
-usuario: 
-contraseña 984198
+usuario: luisEspinoza 
+contraseña 970163
 ```
-## ✉️ Contacto
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@antwny)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antw.ny/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
-
 ⭐ ¡Si te gusta el proyecto, déjale una estrella en GitHub!
 
 ## 📸 Capturas del Sistema
